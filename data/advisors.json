@@ -1,0 +1,62 @@
+[
+  {
+    "border_color": "secondary",
+    "created_at": "2025-08-31T15:39:29.799013",
+    "description": "软件工程专家，研究方向包括分布式系统和云计算",
+    "email": "li@university.edu",
+    "github": "https://github.com/liprof",
+    "google_scholar": "https://scholar.google.com/citations?user=li456",
+    "id": 2,
+    "image_url": "https://picsum.photos/300/300?random=2",
+    "name": "李副教授",
+    "position": "副主任",
+    "sort_order": 2,
+    "status": "active",
+    "updated_at": "2025-09-04T23:54:54.826183"
+  },
+  {
+    "border_color": "primary",
+    "created_at": "2025-08-31T16:44:40.014159",
+    "description": "2",
+    "email": "",
+    "github": "",
+    "google_scholar": "",
+    "id": 9,
+    "image_url": "",
+    "name": "让",
+    "position": "2",
+    "sort_order": 3,
+    "status": "active",
+    "updated_at": "2025-08-31T16:44:40.014159"
+  },
+  {
+    "border_color": "primary",
+    "created_at": "2025-08-31T16:44:40.950725",
+    "description": "2",
+    "email": "",
+    "github": "",
+    "google_scholar": "",
+    "id": 10,
+    "image_url": "",
+    "name": "让",
+    "position": "2",
+    "sort_order": 4,
+    "status": "active",
+    "updated_at": "2025-08-31T16:44:40.950725"
+  },
+  {
+    "border_color": "primary",
+    "created_at": "2025-09-01T10:11:20.303983",
+    "description": "123",
+    "email": "",
+    "github": "",
+    "google_scholar": "",
+    "id": 11,
+    "image_url": "",
+    "name": "321",
+    "position": "213",
+    "sort_order": 5,
+    "status": "active",
+    "updated_at": "2025-09-01T10:11:20.303983"
+  }
+]

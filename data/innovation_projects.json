@@ -1,0 +1,80 @@
+[
+  {
+    "category": "国家级创新创业项目",
+    "created_at": "2025-08-31T15:39:29.799013",
+    "description": "基于深度学习的个性化推荐系统，支持多场景推荐，准确率达到95%以上",
+    "detail_url": "https://github.com/acm-lab/recommendation-system",
+    "id": 1,
+    "image_url": "https://picsum.photos/600/400?random=10",
+    "sort_order": 1,
+    "status": "active",
+    "tags": "推荐算法,用户画像,实时计算,A/B测试",
+    "title": "智能推荐系统平台12",
+    "updated_at": "2025-09-01T10:12:35.328405"
+  },
+  {
+    "category": "企业合作项目",
+    "created_at": "2025-08-31T15:39:29.799013",
+    "description": "基于深度学习的计算机视觉平台，支持图像识别、目标检测打上大等任务",
+    "detail_url": "https://github.com/acm-lab/cv-platform",
+    "id": 4,
+    "image_url": "https://picsum.photos/600/400?random=13",
+    "sort_order": 2,
+    "status": "active",
+    "tags": "计算机视觉,深度学习,图像识别,目标检测",
+    "title": "计算机视觉分析平台",
+    "updated_at": "2025-08-31T16:23:29.394044"
+  },
+  {
+    "category": "省级创新创业项目",
+    "created_at": "2025-08-31T15:39:29.799013",
+    "description": "支持大规模数据训练的分布式机器学习框架，已在多个企业项目中应用",
+    "detail_url": "https://github.com/acm-lab/distributed-ml",
+    "id": 2,
+    "image_url": "https://picsum.photos/600/400?random=11",
+    "sort_order": 3,
+    "status": "active",
+    "tags": "分布式计算,机器学习,GPU加速,容错机制",
+    "title": "分布式机器学习框架",
+    "updated_at": "2025-08-31T15:39:29.799013"
+  },
+  {
+    "category": "国家级创新创业项目",
+    "created_at": "2025-08-31T15:39:29.799013",
+    "description": "基于以太坊的智能合约开发平台，提供可视化的合约编写和部署功能",
+    "detail_url": "https://github.com/acm-lab/blockchain-platform",
+    "id": 5,
+    "image_url": "https://picsum.photos/600/400?random=14",
+    "sort_order": 4,
+    "status": "active",
+    "tags": "区块链,智能合约,以太坊,去中心化",
+    "title": "区块链智能合约平台",
+    "updated_at": "2025-08-31T15:39:29.799013"
+  },
+  {
+    "category": "省级创新创业项目",
+    "created_at": "2025-08-31T15:39:29.799013",
+    "description": "支持多种传感器数据采集的物联网系统，具备实时监控和数据分析功能",
+    "detail_url": "https://github.com/acm-lab/iot-system",
+    "id": 6,
+    "image_url": "https://picsum.photos/600/400?random=15",
+    "sort_order": 5,
+    "status": "active",
+    "tags": "物联网,传感器,数据采集,实时监控",
+    "title": "物联网数据采集系统",
+    "updated_at": "2025-08-31T15:39:29.799013"
+  },
+  {
+    "category": "校级创新创业项目",
+    "created_at": "2025-09-01T10:12:54.420839",
+    "description": "312",
+    "detail_url": "",
+    "id": 9,
+    "image_url": "/static/uploads/innovation_projects/project_e3c212cdafea4ca9.jpg",
+    "sort_order": 6,
+    "status": "active",
+    "tags": "312",
+    "title": "312",
+    "updated_at": "2025-09-01T10:12:54.420839"
+  }
+]
